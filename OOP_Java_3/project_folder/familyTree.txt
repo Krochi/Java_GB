@@ -1,0 +1,6 @@
+компиляция программы:
+javac main/Main.java model/Person.java model/FamilyTree.java service/FileOperations.java service/FileOperationsImpl.java
+
+
+Запуск программы через терминал
+java main.Main
